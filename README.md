@@ -1,3 +1,3 @@
 #pychain hw 
 
-![screenshot](images/Pychain_1.png)
+![screenshot](pychain_1.png)
